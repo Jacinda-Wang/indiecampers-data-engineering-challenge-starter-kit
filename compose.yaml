@@ -1,0 +1,11 @@
+services:
+  app:
+    build:
+      context: .
+    user: "${LOCAL_UID:-1000}:${LOCAL_GID:-1000}"
+    environment:
+      HOME: /tmp
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    command: ["python", "-m", "booking_pipeline", "--help"]

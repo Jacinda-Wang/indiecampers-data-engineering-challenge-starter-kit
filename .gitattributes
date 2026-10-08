@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.duckdb binary
+*.db binary
+*.wal binary
