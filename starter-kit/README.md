@@ -7,7 +7,7 @@ supported runtime and review path: the build, CLI, tests, and completed pipeline
 must work through Compose. Local Python is an optional convenience, not a separate
 submission requirement.
 
-The submission window is one week of elapsed time. Use the suggested 6–8
+The submission window is one week of elapsed time. Use the suggested 8–12
 focused-hour timebox and document unfinished work rather than exceeding it. Contact
 the hiring team for deadline or accessibility accommodations without penalty.
 See the [challenge brief](../README.md) for the core behavior, including at least
