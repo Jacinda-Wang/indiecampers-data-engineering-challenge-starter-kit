@@ -9,7 +9,7 @@ Please submit a solution that you can confidently explain, debug, and change. A 
 ## At a glance
 
 - Submission window: one week elapsed time, not a week of continuous work
-- Suggested effort: 8–12 focused hours
+- Suggested effort: 6–8 focused hours
 - Language: Python 3.12
 - Data store: DuckDB
 - Tests: pytest
@@ -23,7 +23,7 @@ public contract together with this README.
 
 ## Time and accommodations
 
-Use a suggested timebox of 8–12 focused hours within the one-week submission window.
+Use a suggested timebox of 6–8 focused hours within the one-week submission window.
 Document unfinished work, priorities, and next steps rather than exceeding that
 timebox. Extra time and optional bonuses are not a substitute for core correctness;
 incomplete work with clear prioritization can still provide useful evidence.
@@ -193,7 +193,7 @@ Environment commands are provided in [`starter-kit/README.md`](starter-kit/READM
 
 ## Use of AI
 
-You are welcome to use AI tools. AI use is not required. The same suggested 8–12
+You are welcome to use AI tools. AI use is not required. The same suggested 6–8
 focused-hour timebox applies with or without AI; the one-week window is elapsed
 submission time, not expected continuous labor.
 

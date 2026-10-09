@@ -5,7 +5,7 @@ Use these criteria to validate your solution. They do not prescribe an internal 
 
 ## Scope And Runtime
 
-Use the suggested **8–12 focused hours** within the one-week elapsed submission window.
+Use the suggested **6–8 focused hours** within the one-week elapsed submission window.
 Document unfinished work and priorities rather than exceeding that timebox.
 Deadline and accessibility accommodations carry no penalty.
 
